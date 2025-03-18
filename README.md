@@ -1,7 +1,7 @@
 # Dev-brain-heart
 Codes for the paper "The development of brain-heart interplay during child emotional experience"
 
-# Scripts Overview
+## Scripts Overview
 
 | **Analysis**               | **Script/Data**             | **Function**                                                            |
 |----------------------------|-----------------------------|-------------------------------------------------------------------------|
