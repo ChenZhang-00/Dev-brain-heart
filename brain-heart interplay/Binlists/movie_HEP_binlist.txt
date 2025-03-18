@@ -1,0 +1,44 @@
+bin 1
+High_fear_R
+.{100}
+
+bin 2
+High_fear_T
+.{150}
+
+bin 3
+Low_fear_R
+.{200}
+
+bin 4
+Low_fear_T
+.{250}
+
+bin 5
+High_happy_R
+.{300}
+
+bin 6
+High_happy_T
+.{350}
+
+bin 7
+Low_happy_R
+.{400}
+
+bin 8
+Low_happy_T
+.{450}
+
+bin 9
+Neutral_R
+.{500}
+
+bin 10
+Neutral_T
+.{550}
+
+
+
+
+
