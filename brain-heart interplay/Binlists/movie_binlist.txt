@@ -1,0 +1,11 @@
+bin 1
+fear
+.{100}
+
+bin 2
+happy
+.{300}
+
+bin 3
+neutral
+.{200}
